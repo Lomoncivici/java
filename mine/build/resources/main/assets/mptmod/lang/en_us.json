@@ -1,0 +1,18 @@
+{
+  "item.mptmod.apple": "Apple",
+  "item.mptmod.apple_ore": "Apple ore",
+  "itemGroup.Mpt tab": "Mpt mod",
+  "block.mptmod.apple_block": "Apple block",
+  "block.mptmod.apple_raw": "Apple block ore",
+  "block.mptmod.deepslate_apple_raw": "Apple deep dive ore",
+  "block.mptmod.apple_boots": "Apple Boots",
+  "block.mptmod.apple_leggings": "Apple Leggings",
+  "block.mptmod.apple_chestplate": "Apple Chestplate",
+  "block.mptmod.apple_helmet": "Apple deep dive ore",
+  "block.mptmod.apple_tool": "Apple MultiTool",
+  "block.mptmod.apple_hoe": "Apple Hoe",
+  "block.mptmod.apple_axe": "Apple Axe",
+  "block.mptmod.apple_shovel": "Apple Shovel",
+  "block.mptmod.apple_pickaxe": "Apple Pickaxe",
+  "block.mptmod.apple_sword": "Apple Sword"
+}
