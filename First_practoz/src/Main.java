@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main
     {
         public static void main(String[] args) throws FileNotFoundException {
-            Scanner vvod = new Scanner(System.in,"Cp1251");
+            Scanner vvod = new Scanner(System.in);
             System.out.println("рецепт пельменей");
             System.out.println("Введите граммовку для ингредиентов:\n");
 
